@@ -27,3 +27,13 @@ author = "Clector"
 cpu = "Intel Core i3-4160"
 gpu = "Intel HD Graphics 4400"
 os = "Windows 8.1"
+
+[[ testcases ]]
+title = "000400000010C000"
+compatibility = "0"
+date = "2017-10-31"
+version = "HEAD-1f6da9f"
+author = "Sedhaild"
+cpu = "Intel Core i5-6400"
+gpu = "nVidia GeForce GTX 750TI"
+os = "Windows 10 15063"
