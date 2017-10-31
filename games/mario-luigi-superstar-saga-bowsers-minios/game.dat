@@ -1,0 +1,19 @@
+title = "Mario & Luigi Superstar Saga + Bowser's Minios"
+description = "Platform: Nintendo 3DS\nRelease Date: Oct 06, 2017\nNo. of Players: 1 player\nCategory: Action, Adventure, Role-Playing\nPublisher: Nintendo\nDeveloper: ALPHADREAM"
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001B9000"
+region = "eur"
+release_date = "2017-10-06"
+
+[[testcases]]
+title = "00040000001B9000"
+compatibility = "0"
+date = "2017-10-30"
+version = "HEAD-1f6da9f"
+cpu = "Intel Core i5-6400"
+gpu = "GeForce GTX 750TI"
+os = "Windows 10 15063"
+author = "Sedhaild"
